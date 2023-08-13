@@ -12,7 +12,7 @@ body {
 h1 {
     color: #e5340b;
     -webkit-text-stroke: 2px #0b0835;
-    font-size: 5rem;
+    font-size: 4rem;
     margin: 0;
     animation: grooving 0.55s ease-in-out infinite;
     text-align: -webkit-center;
